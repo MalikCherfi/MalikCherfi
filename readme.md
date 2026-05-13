@@ -20,6 +20,13 @@
 - LinkedIn : www.linkedin.com/in/malik-cherfi
 - Email : malikcherfi@gmail.com
 
+## 🚀 Mes projets
+
+| Projet                | Description                  | Technologies  |
+| --------------------- | ---------------------------- | ------------- |
+| Page de profil GitHub | Ma première contribution Git | Git, Markdown |
+|                       |                              |               |
+
 ---
 
 _Page mise à jour le 13/05/2026_
