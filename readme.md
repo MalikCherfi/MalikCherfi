@@ -1,6 +1,8 @@
+<center>
+
 # Bonjour, je suis Malik Cherfi 👋
 
-![badge](2020ArcticCodeVaultBadge.png)
+<img src="2020ArcticCodeVaultBadge.png"  alt="Picture" width="200" height="200" style="display: block; margin: 0 auto" />
 
 ## 🙋 À propos de moi
 
@@ -24,10 +26,18 @@
 
 ## 🚀 Mes projets
 
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
+
 | Projet                | Description                  | Technologies  |
 | --------------------- | ---------------------------- | ------------- |
 | Page de profil GitHub | Ma première contribution Git | Git, Markdown |
 |                       |                              |               |
+
+</div>
+
+</center>
 
 ---
 
