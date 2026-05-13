@@ -42,3 +42,10 @@
 ---
 
 _Page mise à jour le 13/05/2026_
+## ⭐ Recommandation
+
+> Malik Cherfi est une personne sérieuse et motivée, 
+> avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
+> Je recommande de suivre son parcours !
+> — Aïcha, promotion DevOps Azure
+
