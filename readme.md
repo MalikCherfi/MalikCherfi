@@ -1,5 +1,7 @@
 # Bonjour, je suis Malik Cherfi 👋
 
+![badge](2020ArcticCodeVaultBadge.png)
+
 ## 🙋 À propos de moi
 
 - 🎓 En formation **DevOps Azure** chez Simplon
